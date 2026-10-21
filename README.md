@@ -1,1 +1,5 @@
-Hallo! [Follow Me on YouTube](https://jngo.io/gh/youtube) to learn more about cloud engineering best practices and [watch me code](https://jngo.io/gh/youtube) 👩‍💻 🎥
+Servus 👋 I'm Julie, a cloud architect and engineer in Munich. You can find my work here:
+
+- **Code** 👩‍💻 is mostly committed by [@julieio-agent](https://github.com/julieio-agent), because agents should run with least privilege, not with mine.
+- **YouTube** 🎥 [@JulieNgTech](https://www.youtube.com/@JulieNgTech), where I teach cloud engineering best practices
+- **Blog** ✍️ at [julie.io/blog](https://julie.io/blog)
